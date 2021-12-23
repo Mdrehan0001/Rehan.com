@@ -1,0 +1,3 @@
+ngrok authtoken 21UrZgTzcuLRBQy8q5bZCU4BrJQ_3okqeDkEnDs9wRGNQQ5ZG
+
+ngrok tcp -region eu 25565
